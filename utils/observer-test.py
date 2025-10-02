@@ -5,8 +5,8 @@ from hashlib import blake2b
 # Connection details
 url = "bittensor-observer.flamewire.io"
 username = "test-owners"
-password = "a3hm9ne1BIsD"
-queue_name = "Test-queue"
+password = "Hul3YQdO5WXU"
+queue_name = "test-observer"
 
 # Create credentials
 credentials = pika.PlainCredentials(username, password)
