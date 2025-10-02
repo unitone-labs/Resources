@@ -5,7 +5,7 @@ from hashlib import blake2b
 # Connection details
 url = "bittensor-observer.flamewire.io"
 username = "test-owners"
-password = "Hul3YQdO5WXU"
+password = "mezKOp5pVv69"
 queue_name = "test-observer"
 
 # Create credentials
